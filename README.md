@@ -1,6 +1,6 @@
 ## Markdown
 ### Indice de sintaxis Markdown
-![Texto alternativo](/imagen.jpg)
+![Texto alternativo](logo/imagen.jpg)
 
 **Elementos de bloque:**
 - Párrafos y saltos de línea
