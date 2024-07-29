@@ -202,3 +202,18 @@ _ _ _
 Markdown utiliza **asteriscos** o **guiones bajos** para enfatizar.
 
 Simplemente tendrás que envolver palabras o textos en éstos símbolos para conseguir *cursivas* o **negritas**.
+
+![Texto alternativo](/markwn1.PNG)
+
+Por supuesto si quieres utilizar los dos tipos de énfasis no tienes más que **combinar la sintaxis**, envolviendo la palabra entre tres asteriscos o tres guiones bajos.
+
+![Texto alternativo](/markdwn2.PNG)
+
+## Links o enlaces
+Añadir enlaces a una publicación, más que común, hoy en día es algo **casi obligatorio**. Con Markdown tendrás varias formas de hacerlo.
+
+#### Links o enlaces en línea
+Son los enlaces de toda la vida. Como su nombre indica, se encuentran en línea con el texto.
+
+Se crean escribiendo la palabra o texto enlazada entre [] **corchetes**, y el link en cuestión entre () **paréntesis**.
+
